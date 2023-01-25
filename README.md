@@ -1,4 +1,4 @@
-# Simple-Monte-Carlo-Matlab
+# Simple-Monte-Carlo
 
 This code shows the core idea of Monte Carlo method with an toy example of stock market.
 
